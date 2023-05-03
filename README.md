@@ -1,32 +1,11 @@
-# Conference Call
-A conference call implementation using WebRTC, Socket.io and Node.js. This demo is ideal for not more than 4 devices.
+📞 Welcome to our Conference Call implementation using WebRTC, Socket.io, and Node.js! This demo is perfect for small groups of up to four devices.
 
+🚀 Getting started is easy! Simply run npm ci and cd into the src directory. Then, run node app.js or npm start to start the application.
 
-# Getting Started
-- Run `npm ci`
-- `cd src`
-- `node app.js` or `npm start`
+👥 Our conference call supports multi-participants and allows for toggling of video and audio streams, including mute and unmute functionality. Additionally, participants can share their screens and engage in text chat.
 
+🔇 To avoid any background noise, participants have the ability to mute individual participants. And for a closer look at a participant's stream, there is an expand stream feature.
 
-# Features
-- Multi-participants
-- Toggling of video stream
-- Toggling of audio stream (mute & unmute)
-- Screen sharing
-- Text chat
-- Mute individual participant
-- Expand participants' stream
-- Screen Recording
-- Video Recording
+🎥 In addition to screen sharing, we also offer screen recording and video recording functionalities.
 
- 
-# Demo
-You can test at https://chat.1410inc.xyz.
-
-
-# Note
-You can create a free xirsys account and use their free ice server. You can replace the one used with your own at `src/assets/js/helpers.js`, function `getIceServer()`. The demo may not work as my xirsys account has been deactivated for reasons best known to them (perhaps the hits were too much) and I am not ready to create a new one. Create yours or look for an alternative.
-
-
-# Alternative
-If you prefer to use PHP Web socket (Ratchet) instead of socket.io and NodeJS, check out the PHP version [here](https://github.com/amirsanni/conference-call-ratchet).
+💻 With our easy-to-use interface and robust feature set, our Conference Call implementation is the perfect solution for small groups looking to connect remotely.
