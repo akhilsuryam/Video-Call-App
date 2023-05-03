@@ -24,10 +24,7 @@
     "LiveStream",
     "Server"
   ],
-  "author": "Amir Sanni <amirsanni@gmail.com>",
+  "author": "Akhil Suryam >",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/amirsanni/livestream-server/issues"
-  },
-  "homepage": "https://github.com/amirsanni/livestream-server#readme"
+  
 }
