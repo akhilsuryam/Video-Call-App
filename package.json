@@ -5,6 +5,7 @@
   "main": "src/app.js",
   "dependencies": {
     "express": "^4.17.3",
+    "i": "^0.3.7",
     "serve-favicon": "^2.5.0",
     "socket.io": "^4.5.4"
   },
@@ -25,6 +26,5 @@
     "Server"
   ],
   "author": "Akhil Suryam >",
-  "license": "ISC",
-  
+  "license": "ISC"
 }
